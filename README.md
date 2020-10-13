@@ -97,7 +97,7 @@ https://app.www.calm.com/homepage
 
 ![calm homepage](calm.jpg)
 
-Calm is the meditation platform that provides subscribers access to meditation and sleep practices, calming music and scenery, and masterclasses on mental health. Although from initial overview the website looks very organized and cohesive, there are a lot of the features that cause confusion during use and can be improved. 
+Calm is a subscription-based meditation platform that provides subscribers access to meditation and sleep practices, calming music and scenery, and masterclasses on mental health. Although from initial overview the website looks very organized and cohesive, there are a lot of the features that cause confusion during use and can be improved. 
 
 
 **1. Visibility of system status** 
