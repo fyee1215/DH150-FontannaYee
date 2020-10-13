@@ -20,7 +20,7 @@ Mindful is a mindfulness website that provides an introduction to mindfulness an
   * Provide appropriate feedback within reasonable time. 
 
 **Evaluation (Rating: 1)**
-This website on a whole maintains good visibility of system status, as there are not that many complexities other that navigating through webpages, and each webpage loads quickly. However, the website also includes embedded meditation audio clips on some pages. When the audio clips are playing, there is no way of seeing exactly how much time is left in the meditation, which could possibly frustrate users as they have no idea of when the mediation will come to an end. A simple solution would be to embedding timestamps so users know how much time is left in the exercise. 
+This website on a whole maintains good visibility of system status, as there are not that many complexities other that navigating through webpages, and each webpage loads quickly. However, the website also includes embedded meditation audio clips on some pages. When the audio clips are playing, there is no way of seeing exactly how much time is left in the meditation, which could possibly frustrate users as they have no idea of when the mediation will come to an end. A simple solution would be to embed timestamps so users know how much time is left in the exercise. 
 
 
 **2. Match between system and the real world**
@@ -33,7 +33,7 @@ This website violates this heuristic by not making information appear in a natur
 **3. User control and freedom**
  * Users often choose system functions by mistake.
  * Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. 
-Support undo and redo. 
+ * Support undo and redo. 
 
 **Evaluation (No Issue)**
 I believe that this website has relatively good user control. If a user clicks on a page by accident, they can always click the back button to go back to their previous page. If they started a Youtube video or meditation clip they did not intend to, it is easy to pause. It is very easy to exit out of the situation the user does not want to be in. 
