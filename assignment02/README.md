@@ -24,3 +24,16 @@ By conducting this pilot usability test, I hope to confirm that the three proble
 
 Based on the findings of these usability tests, I hope to improve the website but consolidating information into more logical categories, simplifying the website design, and placing the help functions in a more prominent place. 
 
+### Methodology
+The pilot usability test was conducted in my apartment in Westwood, Los Angeles (the portable minimalistic lab). I communicated with my participant through Zoom throughout the entire usability testing process, and I recorded the informed consent, background questions, pretest, tasks, and post-test questionnaire process. During the three tasks, I asked the participant to think aloud their search process, and I recorded their approach and reactions appropriately. 
+
+**The usability materials [here](https://forms.gle/jkGBggbevJMH5yC7A)**
+
+**The pilot test video [here](https://drive.google.com/file/d/1ahMik4kLNdSxg-L6z3UZlOOTFlxPnaH0/view?usp=sharing)**
+
+### Reflection
+I learned a lot about being both a participant and a moderator after conducting the pilot test. The most important takeaway was that there were multiple paths to reach the same answer. In all my tasks, I had envisioned the participant starting from a certain point and passing through several checkpoints before finding the answers they were looking for. However, I had not taken into account the flexibility of the website, which allowed participants to find answers in multiple different ways. Oftentimes, tasks that I had envisioned as more difficult were actually quite easy for participants because of this function. Ultimately, I learned that participants could be very adaptive and learn to search for answers outside-of-the-box, which I did not expect as a moderator. The next time I conduct a usability test, I will firstly make my questions much more specific in terms of the answers I am looking for. This time, some of my wording was vague, which caused the participant some confusion. In addition, I hope to learn how to be more patient and express myself more neutrally. There were a lot of times where the participant missed the information I wanted them to see, or selected information that was related but not the same, and I wanted to correct them or nudge them in the right direction, while knowing that it was not my place to do so. However, I learned a lot from this first session, and I would like to continue developing my moderator skills in the future. 
+
+
+
+
