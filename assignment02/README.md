@@ -25,7 +25,7 @@ By conducting this pilot usability test, I hope to confirm that the three proble
 Based on the findings of these usability tests, I hope to improve the website but consolidating information into more logical categories, simplifying the website design, and placing the help functions in a more prominent place. 
 
 ### Methodology
-The pilot usability test was conducted in my apartment in Westwood, Los Angeles (the portable minimalistic lab). I communicated with my participant through Zoom throughout the entire usability testing process, and I recorded the informed consent, background questions, pretest, tasks, and post-test questionnaire process. During the three tasks, I asked the participant to think aloud their search process, and I recorded their approach and reactions appropriately. 
+The pilot usability test was conducted in my apartment in Westwood, Los Angeles (the portable minimalistic lab). I communicated with my participant through Zoom throughout the entire usability testing process, and I recorded the informed consent, background questions, pretest, tasks, and post-test questionnaire process. During the three tasks, I asked the participant to think aloud their search process, and I recorded their approach and reactions appropriately. While participating in the usability test, the participant also filled out a survey to record their answers. 
 
 **The usability materials [here](https://forms.gle/jkGBggbevJMH5yC7A)**
 
