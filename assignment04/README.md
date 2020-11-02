@@ -1,7 +1,7 @@
 # Users in context
-## DH150-Assignment04
-### Fontanna Yee
-#### Main Design Challenge
+## DH150 Assignment04-Fontanna Yee
+### Main Design Challenge
+
 **What is the main activity your project would support the users’ needs?**
 
 The purpose of this project is to help ease the process of finding a meditation practice that best suits the user’s needs, especially based on their age and their primary health concern. 
