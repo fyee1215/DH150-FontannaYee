@@ -26,7 +26,9 @@ Another improvement is decreasing the sentiment that meditation does not work. S
 **What are the characteristics of users?** 
 
 Demographics: ideally middle-aged women, and also all older adults, students, and young children
+
 Preference: users that want to address a certain mental health concern or want to start a meditation routine for positive benefits
+
 Expertise: no expertise is required, and this activity actually encourages beginners to use it
 
 **Where would the users do that activity? (i.e., context of use)**
