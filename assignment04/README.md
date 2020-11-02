@@ -45,11 +45,11 @@ For this project, I used a combination of two methods: interview and participato
 
 Both methods were completed in the user’s own home, where they felt comfortable and would most likely complete the activity in daily life. I used Zoom to record the interview and user tasks and also the transcript for the session.  
 
-Link to the contextual interview script [here](https://docs.google.com/document/d/19Mmph1cH86kPNXmaW05TehemocrP26BoeACGI08p8fo/edit?usp=sharing)
+**Link to the contextual interview script** [here](https://docs.google.com/document/d/19Mmph1cH86kPNXmaW05TehemocrP26BoeACGI08p8fo/edit?usp=sharing)
 
-Link to the full contextual interview transcript [here](https://docs.google.com/document/d/13VgHOKNj19J0aphA6gWsyMbjcAp986GCaKVNsIGQasU/edit?usp=sharing)
+**Link to the full contextual interview transcript** [here](https://docs.google.com/document/d/13VgHOKNj19J0aphA6gWsyMbjcAp986GCaKVNsIGQasU/edit?usp=sharing)
 
-Link to the video recording of interview [here](https://drive.google.com/file/d/1L6iCMv9ZVlLQXslY5Cg3qBqOTzdZb-Pz/view?usp=sharing)
+**Link to the video recording of interview** [here](https://drive.google.com/file/d/1L6iCMv9ZVlLQXslY5Cg3qBqOTzdZb-Pz/view?usp=sharing)
 
 ### Interesting User Insights
 
