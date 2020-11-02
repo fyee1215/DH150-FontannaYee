@@ -47,7 +47,7 @@ Link to the contextual interview script [here](https://docs.google.com/document/
 
 Link to the full contextual interview transcript [here](https://docs.google.com/document/d/13VgHOKNj19J0aphA6gWsyMbjcAp986GCaKVNsIGQasU/edit?usp=sharing)
 
-Link to the video recording of interview [here]
+Link to the video recording of interview [here](https://drive.google.com/file/d/1L6iCMv9ZVlLQXslY5Cg3qBqOTzdZb-Pz/view?usp=sharing)
 
 ### Interesting User Insights
 
