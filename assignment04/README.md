@@ -1,6 +1,5 @@
-# Users in context
-## DH150 Assignment04-Fontanna Yee
-### Main Design Challenge
+# DH150 Assignment04-Fontanna Yee
+## Main Design Challenge
 
 **What is the main activity your project would support the users’ needs?**
 
@@ -22,7 +21,7 @@ The biggest limitation that can be improved with digital technology is eliminati
 
 Another improvement is decreasing the sentiment that meditation does not work. Studios can treat meditation with a one-size-fits-all approach, and a digital platform can allow the user to personalize their routine so it best fits their needs and pace. 
 
-### Target Users
+## Target Users
 
 **What are the characteristics of users?** 
 
@@ -38,7 +37,7 @@ In the traditional method, users would go to a studio to practice meditation wit
 
 The goal is to successfully find and complete a meditation practice. To accomplish this, they can search for practices online, or download a meditation app, where they can choose whatever practice they want to do. If a user chooses to attend a physical class, they can choose a class at a location close to them and attend at specified times of the week. 
 
-### Research Methods
+## Research Methods
 
 For this project, I used a combination of two methods: interview and participatory observation. I first asked the participant a series of background questions to gauge their familiarity with the activity. I then asked the participant to search for a meditation practice in two ways: first by finding one online, and second by choosing one off a popular existing mediation app, Calm. Finally, I asked the participant follow-up questions some aspects not included in the main tasks. 
 
