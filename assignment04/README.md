@@ -71,7 +71,7 @@ Both methods were completed in the user’s own home, where they felt comfortabl
 
 **The importance of customized options**
 
-  * *“I think having somebody to help me assess what I need, would be helpful. Like the questions that come asked at first, like, what are you doing this for? What do you hope to get out of it that was useful, not just for their algorithms, but also for me to kind of streamline my thoughts?”*
+  * *“I think having somebody to help me assess what I need, would be helpful. Like the questions that Calm asked at first, like, what are you doing this for? What do you hope to get out of it that was useful, not just for their algorithms, but also for me to kind of streamline my thoughts?”*
 
 **A con of using a digital platform**
   * *“But also like, because meditation is inherently supposed to be like distraction free, right? And the phone is a huge distractor. So maybe finding a way to, I don't know, like, make the user less reliant on looking at the screen while they're doing the meditation would be helpful.”*
