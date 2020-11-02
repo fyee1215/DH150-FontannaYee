@@ -41,7 +41,7 @@ The goal is to successfully find and complete a meditation practice. To accompli
 
 ## Research Methods
 
-For this project, I used a combination of two methods: interview and participatory observation. I first asked the participant a series of background questions to gauge their familiarity with the activity. I then asked the participant to search for a meditation practice in two ways: first by finding one online, and second by choosing one off a popular existing mediation app, Calm. Finally, I asked the participant follow-up questions some aspects not included in the main tasks. 
+For this project, I used a combination of two methods: interview and participatory observation. I first asked the participant a series of background questions to gauge their familiarity with the activity. I then asked the participant to search for a meditation practice in two ways: first by finding one online, and second by choosing one off a popular existing mediation app, Calm. Finally, I asked the participant follow-up questions for insight on some aspects not included in the main tasks. 
 
 Both methods were completed in the user’s own home, where they felt comfortable and would most likely complete the activity in daily life. I used Zoom to record the interview and user tasks and also the transcript for the session.  
 
