@@ -9,11 +9,9 @@ UX storytelling is essential for person-centered design because it reminds the d
 
 ## Persona and Empathy Maps
 1) Kim Zhang
-
 ![Kim Persona](1.jpg)
 
 2) Annie Walker
-
 ![Annie Persona](2.jpg)
 
 
