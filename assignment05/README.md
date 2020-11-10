@@ -7,3 +7,6 @@ UX storytelling is essential for person-centered design because it reminds the d
 1) Language - Allow user to change to a language that is more comfortable for them to communicate
 2) Do Not Disturb - Silence notifications while using the app to meditate to minimize distractions 
 
+## Persona and Empathy Maps
+
+
