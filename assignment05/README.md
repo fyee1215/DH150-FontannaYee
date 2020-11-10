@@ -8,5 +8,7 @@ UX storytelling is essential for person-centered design because it reminds the d
 2) Do Not Disturb - Silence notifications while using the app to meditate to minimize distractions 
 
 ## Persona and Empathy Maps
+1) Kim Zhang
+![Kim Persona](1.png)
 
 
