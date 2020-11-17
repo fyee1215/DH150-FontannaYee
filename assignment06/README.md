@@ -19,7 +19,7 @@ Wireflow for prototype found [here](wireflow.pdf)
 
 Wireflow testing video found [here](https://drive.google.com/file/d/1927V8Jk9ls8F71Db3VUwUz6titVs5tgc/view?usp=sharing)
 
-Results of wireflow testing found [here](Low Fidelity Wireflow.png) 
+Results of wireflow testing found [here](lofiwireflow.png) 
 
 ### Notes on Wireflow Testing
 
