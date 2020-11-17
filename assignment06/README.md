@@ -13,5 +13,6 @@ The purpose of this low-fidelity prototype is to test how to integrate these fea
 
 ## Wireframes and Wireflows
 
-All wireframes for prototype found [here](
+All wireframes for prototype found [here](wireframes.pdf)
+Wireflow for prototype foudn [here](wireflow.pdf) 
 
