@@ -14,5 +14,20 @@ The purpose of this low-fidelity prototype is to test how to integrate these fea
 ## Wireframes and Wireflows
 
 All wireframes for prototype found [here](wireframes.pdf)
-Wireflow for prototype foudn [here](wireflow.pdf) 
+
+Wireflow for prototype found [here](wireflow.pdf) 
+
+### Notes on Wireflow Testing
+
+**Feature 1: Language**
+	
+The participant seemed to find the language button located on the homepage intuitive, as she immediately used that icon to navigate to the language page. However, in this feature and consistently through testing, she seemed to neglect the okay button after selecting her choice that I included as a confirmation step before opening the next page. She successfully completed this task by ending at the home page, now in Chinese. 
+
+**Feature 2: Do Not Disturb**
+
+The participant also seemed to find the bell button located on the homepage intuitive, as she also navigated here immediately when finding the Do Not Disturb function. The rest of this process went smoothly. She successfully completed this task by closing the confirmation page that notifications would be turned off for an hour, and navigating back to the home page. 
+
+**Feature 3: Customization**
+
+The participant’s reaction to this task was interesting to me. I believed that three bars at the top right corner of a screen was a common feature across all app platforms to symbolize a drop down menu, but the participant struggled for a moment to find the customization menu. She noted that it would be more useful to place the customization feature in a more prominent location, especially considering it was a hallmark feature of the app. I also believe that the search bar in the center of the home screen added to confusion because it was unclear whether she should search there or through the menu. The participant successfully completed the task by finding meditation practices for four different kinds of customization. 
 
