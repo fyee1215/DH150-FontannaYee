@@ -17,6 +17,10 @@ All wireframes for prototype found [here](wireframes.pdf)
 
 Wireflow for prototype found [here](wireflow.pdf) 
 
+Wireflow testing video found [here](https://drive.google.com/file/d/1927V8Jk9ls8F71Db3VUwUz6titVs5tgc/view?usp=sharing)
+
+Results of wireflow testing found [here](Low Fidelity Wireflow.png) 
+
 ### Notes on Wireflow Testing
 
 **Feature 1: Language**
