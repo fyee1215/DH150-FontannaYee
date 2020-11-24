@@ -8,3 +8,11 @@ Because I was designing an application targeted towards older adults who might b
 
 ## Impression Test
 Impression Test Recording [here](https://drive.google.com/file/d/1hsuiDy9og4_0gaK7crPJeli3kFzALb-M/view?usp=sharing)
+
+### Summary of Findings
+1) The user really enjoyed the simplicity of the color scheme and felt that it gave the app a clean feel. 
+2) The user also appreciated the clarity of the customization panel on the home page. During low fidelity prototype testing, this user mentioned that considering that customization was a key feature of the app, it should be placed in a more prominent place than hidden in the menu bar. They felt that the new design made this feature more accessible. 
+3) The user suggested that I round my boxes and the boxes of the meditation practices, which was interesting to me because I had never thought about that before. They said that since most of my design was rounded, it would be cohesive to continue the round theme. In addition, they mentioned that round edges are more calming and suitable for an app that seeks to help people find peace. 
+4) The user really likes the simplicity of the fonts, and especially likes the font for the app, although they are not sure whether that font is readable for everyone. 
+
+
