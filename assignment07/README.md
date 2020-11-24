@@ -18,6 +18,6 @@ Impression Test Recording [here](https://drive.google.com/file/d/1hsuiDy9og4_0ga
 ## Accessibility Testing
 Accessibility Reports found [here](https://drive.google.com/drive/folders/1sDmghNsibMcokayd4rOwCI0XKE_d94X9?usp=sharing)
 
-Accessibility Testing showed that my color scheme was mostly compliant with WCAG2.0 AA level requirements. The dark purple against white passed all AA and AAA requirements. The light purple against white exceeded the 3:1 ratio needed for large text but not the 4.5:1 ratio for small text, but since I only used white font for large text in the name of the app and the home page, it is acceptable. The dark purple against light purple exceeded the 3:1 ratio as well, and because this contrast is used for decorative and stylistic components and not text, according to the WCAG2.0 AA guidelines, it is acceptable. 
+Accessibility Testing showed that my color scheme was compliant with WCAG2.0 AA level requirements. The dark purple against white passed all AA and AAA requirements. The light purple against white exceeded the 3:1 ratio needed for large text but not the 4.5:1 ratio for small text, but since I only used white font for large text in the name of the app and the home page, it is acceptable. The dark purple against light purple exceeded the 3:1 ratio as well, and because this contrast is used for decorative and stylistic components and not text, according to the WCAG2.0 AA guidelines, it is acceptable. 
 
 
