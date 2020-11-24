@@ -15,4 +15,7 @@ Impression Test Recording [here](https://drive.google.com/file/d/1hsuiDy9og4_0ga
 3) The user suggested that I round my boxes and the boxes of the meditation practices, which was interesting to me because I had never thought about that before. They said that since most of my design was rounded, it would be cohesive to continue the round theme. In addition, they mentioned that round edges are more calming and suitable for an app that seeks to help people find peace. 
 4) The user really likes the simplicity of the fonts, and especially likes the font for the app, although they are not sure whether that font is readable for everyone. 
 
+## Accessibility Testing
+Accessibility Reports found [here](https://drive.google.com/drive/folders/1sDmghNsibMcokayd4rOwCI0XKE_d94X9?usp=sharing)
+
 
