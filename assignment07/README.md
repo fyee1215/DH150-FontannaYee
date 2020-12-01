@@ -66,4 +66,3 @@ Cognitive Walkthrough [here](https://docs.google.com/document/d/1UARE8J-PiWJTN6x
 2) One user pointed out that users might not want to customize their meditations at all and instead want to see all the results. I had not taken this into consideration, and I added a “see all choices” option on the home screen for the users who did not want to filter. I also took the suggestion to make the icons bigger. 
 
 
-
