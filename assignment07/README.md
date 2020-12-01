@@ -6,10 +6,13 @@ My project is a meditation app called Selene, named after the moon goddess for a
 After many weeks of ideation, research, and usability testing, my high fidelity prototype solidifies many of the findings and adjustments I have made over the past few weeks into as close of a simulation of the real product as possible. By creating a high fidelity prototype, users can easily test the UX/UI functions of my meditation app and receive feedback for each action, and their testing will allow me to understand what processes are working well and what processes need additional adjustments. 
 ### Tasks
 The two user personas I created shaped the tasks that I created wireflows for in my high fidelity prototype. 
+
 **Task 1: Changing the Language**
 One of my personas is a middle-aged woman who doesn’t speak English as a native language, so I included a language button at the bottom left of each screen. When the user presses the button, three different language options appear. Once a language is selected, the user is redirected to the home screen. 
+
 **Task 2: Turning off Notifications**
 My second persona is a middle-aged woman who has a hectic family life and receives frequent calls from her daughter when she is taking care of her grandchildren. Because of this need, I included a notification feature at the bottom left of the screen as well. When the user presses the feature, they can choose to mute their notifications for a certain amount of time. Once a choice is selected, the user receives a confirmation. 
+
 **Task 3: Customizing Meditation Options**
 Both my personas are looking for simple designs with easy-to-recognize features, which is why I placed the customization panel on the home screen, which is easy to recognize and read. The customization panel is organized into different categories that have more specific options when the user clicks on it.
 
