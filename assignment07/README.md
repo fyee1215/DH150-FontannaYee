@@ -56,4 +56,7 @@ Accessibility Testing showed that my color scheme was compliant with WCAG2.0 AA 
 
 ![task3](task3.1.jpg)
 
+### Cognitive Walkthrough
+Cognitive Walkthrough [here](https://docs.google.com/document/d/1UARE8J-PiWJTN6xaLvL9fVTpf5WyuPWtinZ-wadBFag/edit?usp=sharing)
+
 
