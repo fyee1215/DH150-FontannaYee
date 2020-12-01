@@ -50,7 +50,7 @@ Accessibility Testing showed that my color scheme was compliant with WCAG2.0 AA 
 
 **Task 2**
 
-![task2](task2.jpg)
+![task2](task2.1.jpg)
 
 **Task 3**
 
