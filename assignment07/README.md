@@ -45,6 +45,6 @@ Accessibility Testing showed that my color scheme was compliant with WCAG2.0 AA 
 
 ### Wireflows
 **Task 1**
-![task1](task1)
+![task1](task1.jpg)
 
 
