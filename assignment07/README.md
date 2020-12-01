@@ -41,5 +41,5 @@ Accessibility Reports found [here](https://drive.google.com/drive/folders/1sDmgh
 Accessibility Testing showed that my color scheme was compliant with WCAG2.0 AA level requirements. The dark purple against white passed all AA and AAA requirements. The light purple against white exceeded the 3:1 ratio needed for large text but not the 4.5:1 ratio for small text, but since I only used white font for large text in the name of the app and the home page, it is acceptable. The dark purple against light purple exceeded the 3:1 ratio as well, and because this contrast is used for decorative and stylistic components and not text, according to the WCAG2.0 AA guidelines, it is acceptable. 
 
 ## Interactive Prototype
-[Figma prototype](https://www.figma.com/file/7tdGK4IBQ5qoOybZ5Ay9Mz/DH150-HiFi-Prototype?node-id=0%3A1)
+[Figma prototype](https://www.figma.com/proto/7tdGK4IBQ5qoOybZ5Ay9Mz/DH150-HiFi-Prototype?node-id=1%3A2&viewport=211%2C331%2C0.38419297337532043&scaling=scale-down)
 
