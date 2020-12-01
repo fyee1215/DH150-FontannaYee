@@ -56,7 +56,14 @@ Accessibility Testing showed that my color scheme was compliant with WCAG2.0 AA 
 
 ![task3](task3.1.jpg)
 
-### Cognitive Walkthrough
+## Cognitive Walkthrough
 Cognitive Walkthrough [here](https://docs.google.com/document/d/1UARE8J-PiWJTN6xaLvL9fVTpf5WyuPWtinZ-wadBFag/edit?usp=sharing)
+
+### Summary of Findings
+
+1) The users seemed to find the menu bar confusing because there did not seem to be a use for it. I thought that the menu bar would provide a useful shortcut to customization for users more familiar with the application, but since all the information needed was on the home screen, that made the menu bar redundant. I ended up eliminating the menu bar from every screen. 
+
+2) One user pointed out that users might not want to customize their meditations at all and instead want to see all the results. I had not taken this into consideration, and I added a “see all choices” option on the home screen for the users who did not want to filter. I also took the suggestion to make the icons bigger. 
+
 
 
