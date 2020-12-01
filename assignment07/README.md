@@ -1,7 +1,7 @@
 # DH150 Assignment07 High Fidelity Prototype
 ## Project Description
 ### Summary
-My project is a meditation app called Selene, named after the moon goddess for a sense of calming, that incorporates a minimalist design for simplicity of use, especially for middle and older-aged users. 
+My project is a meditation app called Selene, named after the moon goddess for a sense of calm, that incorporates a minimalist design for simplicity of use, especially for middle and older-aged users. 
 ### Process and Purpose
 After many weeks of ideation, research, and usability testing, my high fidelity prototype solidifies many of the findings and adjustments I have made over the past few weeks into as close of a simulation of the real product as possible. By creating a high fidelity prototype, users can easily test the UX/UI functions of my meditation app and receive feedback for each action, and their testing will allow me to understand what processes are working well and what processes need additional adjustments. 
 ### Tasks
