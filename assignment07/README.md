@@ -8,12 +8,15 @@ After many weeks of ideation, research, and usability testing, my high fidelity 
 The two user personas I created shaped the tasks that I created wireflows for in my high fidelity prototype. 
 
 **Task 1: Changing the Language**
+
 One of my personas is a middle-aged woman who doesn’t speak English as a native language, so I included a language button at the bottom left of each screen. When the user presses the button, three different language options appear. Once a language is selected, the user is redirected to the home screen. 
 
 **Task 2: Turning off Notifications**
+
 My second persona is a middle-aged woman who has a hectic family life and receives frequent calls from her daughter when she is taking care of her grandchildren. Because of this need, I included a notification feature at the bottom left of the screen as well. When the user presses the feature, they can choose to mute their notifications for a certain amount of time. Once a choice is selected, the user receives a confirmation. 
 
 **Task 3: Customizing Meditation Options**
+
 Both my personas are looking for simple designs with easy-to-recognize features, which is why I placed the customization panel on the home screen, which is easy to recognize and read. The customization panel is organized into different categories that have more specific options when the user clicks on it.
 
 ## Graphic Design
