@@ -63,6 +63,8 @@ Cognitive Walkthrough [here](https://docs.google.com/document/d/1UARE8J-PiWJTN6x
 
 1) The users seemed to find the menu bar confusing because there did not seem to be a use for it. I thought that the menu bar would provide a useful shortcut to customization for users more familiar with the application, but since all the information needed was on the home screen, that made the menu bar redundant. I ended up eliminating the menu bar from every screen. 
 
-2) One user pointed out that users might not want to customize their meditations at all and instead want to see all the results. I had not taken this into consideration, and I added a “see all choices” option on the home screen for the users who did not want to filter. I also took the suggestion to make the icons bigger. 
+2) One user was confused that the “cancel” option would take the user back to the home page, and thought there was not an option to go back to the previous page. However, I clarified that the “cancel” button on each page takes the user back to the previous page, not directly back to the home screen. 
+
+3) One user pointed out that users might not want to customize their meditations at all and instead want to see all the results. I had not taken this into consideration, and I added a “see all choices” option on the home screen for the users who did not want to filter. I also took the suggestion to make the icons bigger. 
 
 
