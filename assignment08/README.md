@@ -51,9 +51,9 @@ After my contextual interview, I created user personas of the ideal users of my 
 The purpose of this low-fidelity prototype is to test how to integrate these features into a functioning and intuitive layout and ensure that they can be used to achieve the goals intended. 
 [read more...](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment06)
 
-![task1](task1.1.jpg)
-![task2](task2.2.jpg)
-![task3](task3.1.jpg)
+![task1](../task1.1.jpg)
+![task2](../task2.2.jpg)
+![task3](../task3.1.jpg)
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
