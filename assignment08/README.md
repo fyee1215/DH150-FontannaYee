@@ -25,12 +25,11 @@ hold, and raising children, the current Covid-19 pandemic has created another ex
 The first step of my project was to evaluate competitor sites to see what worked and what didn't. The two platforms I compared was a website called Mindful.org and a meditation app called Calm. [read more...](https://github.com/fyee1215/DH150-FontannaYee/blob/main/README.md)
 
 <table>
-<tr>
-<td> <img src="https://fyee1215.github.io/DH150-FontannaYee/calm.png" height="30px"> </td>
-<td> <img src="https://fyee1215.github.io/DH150-FontannaYee/calm.png" height="300px"> </td>
-</tr>
+  <tr>
+    <td><img src="https://fyee1215.github.io/DH150-FontannaYee/calm.png" height="30px"></td>
+    <td><img src="https://fyee1215.github.io/DH150-FontannaYee/calm.png" height="300px"></td>
+  </tr>
 </table>
-
 
 5) User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
