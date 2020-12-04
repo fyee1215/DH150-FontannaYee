@@ -58,12 +58,7 @@ The purpose of this low-fidelity prototype is to test how to integrate these fea
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 After many weeks of ideation, research, and usability testing, my high fidelity prototype solidifies many of the findings and adjustments I have made over the past few weeks into as close of a simulation of the real product as possible. By creating a high fidelity prototype, users can easily test the UX/UI functions of my meditation app and receive feedback for each action, and their testing will allow me to understand what processes are working well and what processes need additional adjustments. 
 
-<iframe
-  height="450"
-  width="800"
-  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F7tdGK4IBQ5qoOybZ5Ay9Mz%2FDH150-HiFi-Prototype%3Fnode-id%3D1%253A2%26scaling%3Dmin-zoom" 
-  allowfullscreen
-/>
+https://www.figma.com/proto/7tdGK4IBQ5qoOybZ5Ay9Mz/DH150-HiFi-Prototype?node-id=1%3A2&scaling=min-zoom
 
 ### Optional evaluation and revision history 
 The prototyping process was complex but ultimately extremely rewarding, as I learned a lot about the design and revision process, and how designing with the user in mind requires a lot of feedback from impression tests and cognitive walkthroughs. It surprised me how often features that intuitively made a lot of sense to me were confusing and ambiguous for the tester, but it was insightful in helping me adapt my design to best fit the user’s needs. It was also rewarding to learn how to use Figma in designing my prototype. I did not anticipate creating as many screens as I ended up creating, but I realized that some functions that I thought were simple, such as checkboxes, actually had dozens of combinations that I had to design individually. Throughout the whole process I was glad that I got the opportunity to learn design skills and gain feedback from users. 
