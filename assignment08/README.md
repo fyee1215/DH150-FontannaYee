@@ -26,8 +26,8 @@ The first step of my project was to evaluate competitor sites to see what worked
 
 <table>
 <tr>
-<td> <img src=”https://fyee1215.github.io/DH150-FontannaYee/../calm.png” height=”300px”> </td>
-<td> <img src=”https://fyee1215.github.io/DH150-FontannaYee/../mindful.png” height=”300px”> </td>
+<td> <img src=”../calm.png” height=”300px”> </td>
+<td> <img src=”../mindful.png” height=”300px”> </td>
 </tr>
 </table>
 
