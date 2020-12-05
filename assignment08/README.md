@@ -40,10 +40,10 @@ After reviewing competitor apps, I conducted user research to gain a fresh persp
 After my contextual interview, I created user personas of the ideal users of my application to see if my application would best match their needs. 
 [read more...](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment05)
 
-![Kim Persona](../1.png)
-![Kim Journey](../3.png)
-![Annie Persona](../2.png)
-![Annie Journey](../4.png)
+![Kim Persona](../1.1.png)
+![Kim Journey](../3.1.png)
+![Annie Persona](../2.1.png)
+![Annie Journey](../4.1.png)
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
