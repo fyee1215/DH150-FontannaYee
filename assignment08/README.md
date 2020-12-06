@@ -20,8 +20,15 @@ Both my personas were unfamiliar with using app interfaces and were looking for 
 
 ### Competitor analysis
 
-The first step of my project was to evaluate competitor sites to see what worked and what didn't. The two platforms I compared was a website called Mindful.org and a meditation app called Calm. 
-[read more...](https://github.com/fyee1215/DH150-FontannaYee/blob/main/README.md)
+The first step in user experience research was to examine competitor platforms that provided the same services that my application would be intended for, in this case, online meditation. I decided to evaluate both a web platform, Mindful.org, and a meditation app, Calm, to understand what features worked well and what features didn’t, and what were the most important features to include in a meditation application. 
+
+**Heuristic Evaluation**
+
+I first completed a heuristic evaluation of both platforms based on ten fundamental design principles that inform good design. For Mindful.org, my most important findings were that the platform needed to improve on the descriptions of topics so that users could find what they were looking for easier (Match between system and the real world), maintain consistency between the layouts of each page (Consistency and standards), and implement a much simpler and less cluttered design (Aesthetic and minimalist design). For Calm, my most important findings were that the design could have used more labels and text to identify the purpose of some icons (Recognition rather than recall), provide greater feedback during user error (Help users recognize, diagnose, and recover from errors), and place help features in more prominent places (Help and documentation). 
+
+[Full Evaluation Here](https://github.com/fyee1215/DH150-FontannaYee/blob/main/README.md)
+
+**Summary of Findings**
 
 <table>
   <tr>
