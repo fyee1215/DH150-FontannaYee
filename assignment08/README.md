@@ -67,7 +67,7 @@ Until this process in the research process, I had been conducting usability test
 ![Annie Persona](../2.1.png)
 ![Annie Journey](../4.1.png)
 
-## Low-fidelity Prototype (wireflow, assignment06)
+## Low-fidelity Prototype 
 The low-fidelity prototype of my meditation app implemented all the information I had collected from prior weeks of user research. Through creating user personas, I was able to identify three key features that were the most important to include in the application: language, notifications, and customization. The purpose of this low-fidelity prototype was to test how to integrate these features into a functioning and intuitive layout and ensure that they can be used to achieve the goals intended. After I walked through my wireflow with a participant, I was able to make the following revisions to my preliminary wireframes and wireflows in my high-fidelity prototype: 
 * 1) Eliminating the “okay” button when the options were already interactive 
 * 2) Creating a customization panel in a more prominent location on the home screen instead of burying it in the menu bar
@@ -76,20 +76,21 @@ The low-fidelity prototype of my meditation app implemented all the information 
 
 ![wireflow](../wireflow.png)
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
+## High-fidelity Prototype
 Based on feedback from my low-fidelity prototype, I created a high-fidelity prototype that best simulated how my app would look and function as an actual product. My high-fidelity prototype allowed users to test the UX/UI functions of my meditation app and receive feedback for each action, which would help me understand what processes were working well and what processes needed additional adjustments.
 
-This was the stage of the design process where I decided on a name for my application and a design theme. I chose to name my app Selene after the moon goddess, who embodied a sense of peace and calm that fit the premise of meditation well. I also chose a simple, purple color-block design to complement the nighttime implications of Selene and because I believed that purple was a soothing color for the eyes. 
+At this stage of the design process, I decided on a name for my application and a design theme. I decided on a name for my application and a design theme. I chose to name my app Selene after the moon goddess, who embodied a sense of peace and calm that fit the premise of meditation well. I also chose a simple, purple color-block design to complement the nighttime implications of Selene and because I believed that purple was a soothing color for the eyes. 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="1000" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F7tdGK4IBQ5qoOybZ5Ay9Mz%2FDH150-HiFi-Prototype%3Fnode-id%3D1%253A2%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
-## Optional evaluation and revision history 
-The prototyping process was complex but ultimately extremely rewarding, as I learned a lot about the design and revision process, and how designing with the user in mind requires a lot of feedback from impression tests and cognitive walkthroughs. It surprised me how often features that intuitively made a lot of sense to me were confusing and ambiguous for the tester, but it was insightful in helping me adapt my design to best fit the user’s needs. It was also rewarding to learn how to use Figma in designing my prototype. I did not anticipate creating as many screens as I ended up creating, but I realized that some functions that I thought were simple, such as checkboxes, actually had dozens of combinations that I had to design individually. Throughout the whole process I was glad that I got the opportunity to learn design skills and gain feedback from users. 
+## Evaluation and Revision History 
+The most valuable part of the prototyping process was the revision process, where I received feedback from users through an impression test and a cognitive walkthough to identify features that were not intuitive, confusing, or needed redesigning. Although most of the feedback was overwhelmingly positive, especially on the simplicity of design, fonts, and color scheme, these were the findings that informed my revisions:
+* 1) Eliminating the menu bar completing because it was unnecessary and created additional confusion
+* 2) Providing an option for users who did not want to customize their meditation at all
+* 3) Making the customization icons bigger
+* 4) Rounding all the corners of components for a more calming effect
 
-Based on feedback from prototyping testing, I changed a few features, such as getting rid of the unnecessary and confusing menu bar, and adding in options for people who do not want to customize their meditation. As the designer, I didn’t realize that these features may or may not be necessary, and it was good to get feedback from users. I also changed some icons to be bigger and more visible. One suggestion that I believe requires further testing is whether the wording of the “cancel” button should be changed to “back,” as one user was confused, but the other testers understood the use of the button. Over time, with more users and more testing, I know that I will gain further insight into adjustments needed for my app prototype. 
-
-[read more...](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment07)
-
+[Full Impression Test, Accessibility Audit, Cognitive Walkthrough Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment07)
 
 ## Pitch video 
 
