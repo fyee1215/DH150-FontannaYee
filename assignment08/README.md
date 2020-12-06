@@ -30,20 +30,32 @@ I first completed a heuristic evaluation of both platforms based on ten fundamen
 
 <table>
   <tr>
-    <td><img src="../calm.jpg" height="300px"></td>
     <td><img src="../mindful.jpg" height="300px"></td>
+    <td><img src="../calm.jpg" height="300px"></td>
   </tr>
 </table>
 
 **Usability Testing**
 
-I then conducted usability testing, where I asked another participant to go through one of the competitor sites to identify issues with completing basic tasks that either confirmed my heuristic evaluations or pointed out problems that I had overlooked. I asked the participant to complete three tasks using Mindful.org: 1) search "stress" for a breathing exercise, 2) find a mediation practice for children, and 3) find the email address to contact for help. 
+I then conducted usability testing on Mindful.org, where I asked another participant to go through one of the competitor sites to identify issues with completing basic tasks that either confirmed my heuristic evaluations or pointed out problems that I had overlooked. I asked the participant to complete three tasks using Mindful.org: 1) search "stress" for a breathing exercise, 2) find a mediation practice for children, and 3) find the email address to contact for help. 
 
 [Full Usability Test Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment02)
 
 ### User research
-After reviewing competitor apps, I conducted user research to gain a fresh perspective on what other users would like to see in a meditation app. 
-[read more...](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment04)
+The next step in the user research process was to conduct a contextual inquiry with an external participant to identify key areas that my meditation application should address. The participant gave me key insights of the reasoning behind why they would choose to use a meditation app, what they would like to see, and how they would choose a meditation practice. Some of their comments were especially interesting, and the following three in particular would later inform my design choices. 
+
+**The importance of simplicity and authenticity**
+
+  * *“Think simplicity is a big one for me. Like, especially if I'm trying to go somewhere, even virtually to clear my mind. I wouldn't want a cluttered app or a very cheesy app. Like I just hate cheesiness all around. … I just like maybe a simple, like home page, something that I can just go to for my daily routine, something I can use to track my progress. Like, I don't think I need a ton of stuff in terms of like, music or, like, very pretty aesthetic things.”*
+
+**The importance of customized options**
+
+  * *“I think having somebody to help me assess what I need, would be helpful. Like the questions that Calm asked at first, like, what are you doing this for? What do you hope to get out of it that was useful, not just for their algorithms, but also for me to kind of streamline my thoughts?”*
+
+**A con of using a digital platform**
+  * *“But also like, because meditation is inherently supposed to be like distraction free, right? And the phone is a huge distractor. So maybe finding a way to, I don't know, like, make the user less reliant on looking at the screen while they're doing the meditation would be helpful.”*
+
+[Full Contextual Inquiry Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment04)
 
 ### UX storytelling [persona+scenario, assignment05]
 After my contextual interview, I created user personas of the ideal users of my application to see if my application would best match their needs. 
