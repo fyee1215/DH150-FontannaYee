@@ -37,6 +37,12 @@ I first completed a heuristic evaluation of both platforms based on ten fundamen
   </tr>
 </table>
 
+**Usability Testing**
+
+I then conducted usability testing, where I asked another participant to go through one of the competitor sites to identify issues with completing basic tasks that either confirmed my heuristic evaluations or pointed out problems that I had overlooked. I asked the participant to complete three tasks using Mindful.org: 1) search "stress" for a breathing exercise, 2) find a mediation practice for children, and 3) find the email address to contact for help. 
+
+[Full Usability Test Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment02)
+
 ### User research
 After reviewing competitor apps, I conducted user research to gain a fresh perspective on what other users would like to see in a meditation app. 
 [read more...](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment04)
