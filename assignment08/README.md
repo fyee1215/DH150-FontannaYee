@@ -60,7 +60,7 @@ The next step in the user research process was to conduct a contextual inquiry w
 ## UX Storytelling
 Until this process in the research process, I had been conducting usability testing and interviewing potential users of meditation apps, but a crucial part of UX research is keeping the user at the center of my design. To best inform my future designs and maintain the perspective of middle-aged women, I created two user personas of two middle-aged women from very diverse backgrounds, who could both potentially be users of my application. For each persona, I identified their goals, motivations, and challenges that my application would address, and created empathy maps to identify their biggest frustrations that my application could solve. 
 
-[Read More Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment05)
+[Full Personas Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment05)
 
 ![Kim Persona](../1.1.png)
 ![Kim Journey](../3.1.png)
@@ -68,12 +68,11 @@ Until this process in the research process, I had been conducting usability test
 ![Annie Journey](../4.1.png)
 
 ## Low-fidelity Prototype (wireflow, assignment06)
-The purpose of this low-fidelity prototype is to test how to integrate these features into a functioning and intuitive layout and ensure that they can be used to achieve the goals intended. 
-[read more...](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment06)
+The low-fidelity prototype of my meditation app implemented all the information I had collected from prior weeks of user research. Through creating user personas, I was able to identify three key features that were the most important to include in the application: language, notifications, and customization. The purpose of this low-fidelity prototype was to test how to integrate these features into a functioning and intuitive layout and ensure that they can be used to achieve the goals intended. After I walked through my wireflow with a participant, I was able to make revisions to my preliminary wireframes and wireflows that I would input into my high-fidelity prototype. 
 
-![task1](../task1.1.jpg)
-![task2](../task2.2.jpg)
-![task3](../task3.1.jpg)
+[Full Low-fidelity Prototype Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment06)
+
+![wireflow](../wireflow.png)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 After many weeks of ideation, research, and usability testing, my high fidelity prototype solidifies many of the findings and adjustments I have made over the past few weeks into as close of a simulation of the real product as possible. By creating a high fidelity prototype, users can easily test the UX/UI functions of my meditation app and receive feedback for each action, and their testing will allow me to understand what processes are working well and what processes need additional adjustments. 
