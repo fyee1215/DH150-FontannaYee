@@ -57,9 +57,10 @@ The next step in the user research process was to conduct a contextual inquiry w
 
 [Full Contextual Inquiry Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment04)
 
-### UX storytelling [persona+scenario, assignment05]
-After my contextual interview, I created user personas of the ideal users of my application to see if my application would best match their needs. 
-[read more...](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment05)
+### UX storytelling
+Until this process in the research process, I had been conducting usability testing and interviewing potential users of meditation apps, but a crucial part of UX research is keeping the user at the center of my design. To best inform my future designs and maintain the perspective of middle-aged women, I created two user personas of two middle-aged women from very diverse backgrounds, who could both potentially be users of my application. For each persona, I identified their goals, motivations, and challenges that my application would address, and created empathy maps to identify their biggest frustrations that my application could solve. 
+
+[Read More Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment05)
 
 ![Kim Persona](../1.1.png)
 ![Kim Journey](../3.1.png)
