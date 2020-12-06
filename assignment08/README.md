@@ -32,9 +32,9 @@ For Mindful.org, my most important findings were:
   3. implementing a much simpler and less cluttered design (Aesthetic and minimalist design)
 
 For Calm, my most important findings were:
-* 1) using more labels and text to identify the purpose of some icons (Recognition rather than recall)
-* 2) providing greater feedback during user error (Help users recognize, diagnose, and recover from errors)
-* 3) placing help features in more prominent places (Help and documentation)
+  1. using more labels and text to identify the purpose of some icons (Recognition rather than recall)
+  2. providing greater feedback during user error (Help users recognize, diagnose, and recover from errors)
+  3. placing help features in more prominent places (Help and documentation)
 
 [Full Evaluation Here](https://github.com/fyee1215/DH150-FontannaYee/blob/main/README.md)
 
@@ -56,14 +56,15 @@ The next step in the user research process was to conduct a contextual inquiry w
 
 **The importance of simplicity and authenticity**
 
-  * *“Think simplicity is a big one for me. Like, especially if I'm trying to go somewhere, even virtually to clear my mind. I wouldn't want a cluttered app or a very cheesy app. Like I just hate cheesiness all around. … I just like maybe a simple, like home page, something that I can just go to for my daily routine, something I can use to track my progress. Like, I don't think I need a ton of stuff in terms of like, music or, like, very pretty aesthetic things.”*
+> “Think simplicity is a big one for me. Like, especially if I'm trying to go somewhere, even virtually to clear my mind. I wouldn't want a cluttered app or a very cheesy app. Like I just hate cheesiness all around. … I just like maybe a simple, like home page, something that I can just go to for my daily routine, something I can use to track my progress. Like, I don't think I need a ton of stuff in terms of like, music or, like, very pretty aesthetic things.”
 
 **The importance of customized options**
 
-  * *“I think having somebody to help me assess what I need, would be helpful. Like the questions that Calm asked at first, like, what are you doing this for? What do you hope to get out of it that was useful, not just for their algorithms, but also for me to kind of streamline my thoughts?”*
+> “I think having somebody to help me assess what I need, would be helpful. Like the questions that Calm asked at first, like, what are you doing this for? What do you hope to get out of it that was useful, not just for their algorithms, but also for me to kind of streamline my thoughts?”*
 
 **A con of using a digital platform**
-  * *“But also like, because meditation is inherently supposed to be like distraction free, right? And the phone is a huge distractor. So maybe finding a way to, I don't know, like, make the user less reliant on looking at the screen while they're doing the meditation would be helpful.”*
+
+> “But also like, because meditation is inherently supposed to be like distraction free, right? And the phone is a huge distractor. So maybe finding a way to, I don't know, like, make the user less reliant on looking at the screen while they're doing the meditation would be helpful.”*
 
 [Full Contextual Inquiry Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment04)
 
@@ -79,8 +80,8 @@ Until this process in the research process, I had been conducting usability test
 
 ## Low-fidelity Prototype 
 The low-fidelity prototype of my meditation app implemented all the information I had collected from prior weeks of user research. Through creating user personas, I was able to identify three key features that were the most important to include in the application: language, notifications, and customization. The purpose of this low-fidelity prototype was to test how to integrate these features into a functioning and intuitive layout and ensure that they can be used to achieve the goals intended. After I walked through my wireflow with a participant, I was able to make the following revisions to my preliminary wireframes and wireflows in my high-fidelity prototype: 
-* 1) Eliminating the “okay” button when the options were already interactive 
-* 2) Creating a customization panel in a more prominent location on the home screen instead of burying it in the menu bar
+  1. Eliminating the “okay” button when the options were already interactive 
+  2. Creating a customization panel in a more prominent location on the home screen instead of burying it in the menu bar
 
 [Full Low-fidelity Prototype Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment06)
 
@@ -95,10 +96,10 @@ At this stage of the design process, I decided on a name for my application and 
 
 ## Evaluation and Revision History 
 The most valuable part of the prototyping process was the revision process, where I received feedback from users through an impression test and a cognitive walkthough to identify features that were not intuitive, confusing, or needed redesigning. Although most of the feedback was overwhelmingly positive, especially on the simplicity of design, fonts, and color scheme, these were the findings that informed my revisions:
-* 1) Eliminating the menu bar completing because it was unnecessary and created additional confusion
-* 2) Providing an option for users who did not want to customize their meditation at all
-* 3) Making the customization icons bigger
-* 4) Rounding all the corners of components for a more calming effect
+  1. Eliminating the menu bar completing because it was unnecessary and created additional confusion
+  2. Providing an option for users who did not want to customize their meditation at all
+  3. Making the customization icons bigger
+  4. Rounding all the corners of components for a more calming effect
 
 [Full Impression Test, Accessibility Audit, Cognitive Walkthrough Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment07)
 
