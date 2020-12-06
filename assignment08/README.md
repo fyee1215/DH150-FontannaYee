@@ -28,8 +28,6 @@ I first completed a heuristic evaluation of both platforms based on ten fundamen
 
 [Full Evaluation Here](https://github.com/fyee1215/DH150-FontannaYee/blob/main/README.md)
 
-**Summary of Findings**
-
 <table>
   <tr>
     <td><img src="../calm.jpg" height="300px"></td>
