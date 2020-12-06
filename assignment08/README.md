@@ -22,7 +22,7 @@ Both my personas were unfamiliar with using app interfaces and were looking for 
 
 The first step in user experience research was to examine competitor platforms that provided the same services that my application would be intended for, in this case, online meditation. I decided to evaluate both a web platform, Mindful.org, and a meditation app, Calm, to understand what features worked well and what features didn’t, and what were the most important features to include in a meditation application. 
 
-**Heuristic Evaluation**
+### Heuristic Evaluation
 
 I first completed a heuristic evaluation of both platforms based on ten fundamental design principles that inform good design. For Mindful.org, my most important findings were that the platform needed to improve on the descriptions of topics so that users could find what they were looking for easier (Match between system and the real world), maintain consistency between the layouts of each page (Consistency and standards), and implement a much simpler and less cluttered design (Aesthetic and minimalist design). For Calm, my most important findings were that the design could have used more labels and text to identify the purpose of some icons (Recognition rather than recall), provide greater feedback during user error (Help users recognize, diagnose, and recover from errors), and place help features in more prominent places (Help and documentation). 
 
@@ -35,13 +35,13 @@ I first completed a heuristic evaluation of both platforms based on ten fundamen
   </tr>
 </table>
 
-**Usability Testing**
+### Usability Testing
 
 I then conducted usability testing on Mindful.org, where I asked another participant to go through one of the competitor sites to identify issues with completing basic tasks that either confirmed my heuristic evaluations or pointed out problems that I had overlooked. I asked the participant to complete three tasks using Mindful.org: 1) search "stress" for a breathing exercise, 2) find a mediation practice for children, and 3) find the email address to contact for help. 
 
 [Full Usability Test Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment02)
 
-## User research
+## User Research
 The next step in the user research process was to conduct a contextual inquiry with an external participant to identify key areas that my meditation application should address. The participant gave me key insights of the reasoning behind why they would choose to use a meditation app, what they would like to see, and how they would choose a meditation practice. Some of their comments were especially interesting, and the following three in particular would later inform my design choices. 
 
 **The importance of simplicity and authenticity**
@@ -57,7 +57,7 @@ The next step in the user research process was to conduct a contextual inquiry w
 
 [Full Contextual Inquiry Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment04)
 
-## UX storytelling
+## UX Storytelling
 Until this process in the research process, I had been conducting usability testing and interviewing potential users of meditation apps, but a crucial part of UX research is keeping the user at the center of my design. To best inform my future designs and maintain the perspective of middle-aged women, I created two user personas of two middle-aged women from very diverse backgrounds, who could both potentially be users of my application. For each persona, I identified their goals, motivations, and challenges that my application would address, and created empathy maps to identify their biggest frustrations that my application could solve. 
 
 [Read More Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment05)
@@ -67,9 +67,7 @@ Until this process in the research process, I had been conducting usability test
 ![Annie Persona](../2.1.png)
 ![Annie Journey](../4.1.png)
 
-## Wireframe and graphic design element variation [assignment06 + part of 07]
-
-## Low-fidelity prototype (wireflow, assignment06)
+## Low-fidelity Prototype (wireflow, assignment06)
 The purpose of this low-fidelity prototype is to test how to integrate these features into a functioning and intuitive layout and ensure that they can be used to achieve the goals intended. 
 [read more...](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment06)
 
