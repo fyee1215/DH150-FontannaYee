@@ -24,7 +24,15 @@ The first step in user experience research was to examine competitor platforms t
 
 ### Heuristic Evaluation
 
-I first completed a heuristic evaluation of both platforms based on ten fundamental design principles that inform good design. For Mindful.org, my most important findings were that the platform needed to improve on the descriptions of topics so that users could find what they were looking for easier (Match between system and the real world), maintain consistency between the layouts of each page (Consistency and standards), and implement a much simpler and less cluttered design (Aesthetic and minimalist design). For Calm, my most important findings were that the design could have used more labels and text to identify the purpose of some icons (Recognition rather than recall), provide greater feedback during user error (Help users recognize, diagnose, and recover from errors), and place help features in more prominent places (Help and documentation). 
+I first completed a heuristic evaluation of both platforms based on ten fundamental design principles that inform good design. 
+For Mindful.org, my most important findings were:
+* 1) improving on the descriptions of topics so that users could find what they were looking for easier (Match between system and the real world)
+* 2) maintaining consistency between the layouts of each page (Consistency and standards)
+* 3) implementing a much simpler and less cluttered design (Aesthetic and minimalist design). 
+For Calm, my most important findings were:
+* 1) using more labels and text to identify the purpose of some icons (Recognition rather than recall)
+* 2) providing greater feedback during user error (Help users recognize, diagnose, and recover from errors)
+* 3) placing help features in more prominent places (Help and documentation). 
 
 [Full Evaluation Here](https://github.com/fyee1215/DH150-FontannaYee/blob/main/README.md)
 
