@@ -68,7 +68,9 @@ Until this process in the research process, I had been conducting usability test
 ![Annie Journey](../4.1.png)
 
 ## Low-fidelity Prototype (wireflow, assignment06)
-The low-fidelity prototype of my meditation app implemented all the information I had collected from prior weeks of user research. Through creating user personas, I was able to identify three key features that were the most important to include in the application: language, notifications, and customization. The purpose of this low-fidelity prototype was to test how to integrate these features into a functioning and intuitive layout and ensure that they can be used to achieve the goals intended. After I walked through my wireflow with a participant, I was able to make revisions to my preliminary wireframes and wireflows that I would input into my high-fidelity prototype. 
+The low-fidelity prototype of my meditation app implemented all the information I had collected from prior weeks of user research. Through creating user personas, I was able to identify three key features that were the most important to include in the application: language, notifications, and customization. The purpose of this low-fidelity prototype was to test how to integrate these features into a functioning and intuitive layout and ensure that they can be used to achieve the goals intended. After I walked through my wireflow with a participant, I was able to make the following revisions to my preliminary wireframes and wireflows in my high-fidelity prototype: 
+* 1) Eliminating the “okay” button when the options were already interactive 
+* 2) Creating a customization panel in a more prominent location on the home screen instead of burying it in the menu bar
 
 [Full Low-fidelity Prototype Here](https://github.com/fyee1215/DH150-FontannaYee/tree/main/assignment06)
 
