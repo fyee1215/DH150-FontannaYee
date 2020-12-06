@@ -1,20 +1,20 @@
 # Selene - Simple Meditation for Complex Lives
-### Fontanna Yee - DH 150
+### Fontanna Yee - DH 150 (User Experience Design) - Fall 2020
 ## Introduction
 When I was given the prompt to create a project that benefitted some aspect of life for middle-aged women, I decided to combine user experience with my interests in psychology and mental health to create a meditation application. Especially during the Covid-19 pandemic, mental health stressors have been at an all-time high, and I thought it was important to give older adults a platform to address mental health concerns. Many current meditation websites and apps are unnecessarily complicated and can be overwhelming for older adults to navigate and turn them away from the benefits of meditation, especially if they are unfamiliar with using technology. My goal in this project was to create a meditation app that replaced complicated interfaces and an overwhelming amount of choices with a simple, user-friendly design and clear options for customization. I hope that eliminating the stress of navigating complicated apps and websites would help older women, and adults in general, feel more comfortable creating a meditation routine that best addresses their daily life stressors, especially exacerbated by the pandemic. 
 
 ## Clear design statement
 Based on weeks of research, usability testing, and contextual interviews, I prioritized simplicity and customization in my design. I primarily focused on assisting primarily middle-aged women in finding a meditation practice that best addresses their physical and mental health concerns. With this in mind, I identified three key features that minimized excess stress in a meditation routine, based on the two users personas that informed my design. 
 
-**Task 1: Changing the Language**
+**Feature 1: Changing the Language**
 
 One of my personas was a middle-aged woman who doesn’t speak English as a native language, so I included a language option that allows a user to change to a language that they are more comfortable using to interact with the app.This would make the app more appealing for users who were interested in meditation but intimidated by primarily English platforms. 
 
-**Task 2: Turning off Notifications**
+**Feature 2: Turning off Notifications**
 
 My second persona was a middle-aged woman who has a hectic family life and receives frequent calls from her daughter when she is taking care of her grandchildren. Because of this need, I included a notification option that allows users to mute external notifications for a specified amount of time. This feature would accommodate users who have constant disturbances on their phone that could interrupt the focus and concentration needed to meditate successfully. 
 
-**Task 3: Customizing Meditation Options**
+**Feature 3: Customizing Meditation Options**
 
 Both my personas were unfamiliar with using app interfaces and were looking for a simple, minimalistic platform to use that could accommodate for different needs. Because of this, I created a simple color-block design with easy-to-recognize features with large and clear labels, which would make navigating the app much easier and less stressful. I also placed the customization feature in the center of the home screen, which makes the customization options easy to identify. 
 
