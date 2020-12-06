@@ -8,7 +8,7 @@ Based on weeks of research, usability testing, and contextual interviews, I prio
 
 **Feature 1: Changing the Language**
 
-One of my personas was a middle-aged woman who doesn’t speak English as a native language, so I included a language option that allows a user to change to a language that they are more comfortable using to interact with the app.This would make the app more appealing for users who were interested in meditation but intimidated by primarily English platforms. 
+> One of my personas was a middle-aged woman who doesn’t speak English as a native language, so I included a language option that allows a user to change to a language that they are more comfortable using to interact with the app.This would make the app more appealing for users who were interested in meditation but intimidated by primarily English > platforms. 
 
 **Feature 2: Turning off Notifications**
 
@@ -25,14 +25,16 @@ The first step in user experience research was to examine competitor platforms t
 ### Heuristic Evaluation
 
 I first completed a heuristic evaluation of both platforms based on ten fundamental design principles that inform good design. 
+
 For Mindful.org, my most important findings were:
 * 1) improving on the descriptions of topics so that users could find what they were looking for easier (Match between system and the real world)
 * 2) maintaining consistency between the layouts of each page (Consistency and standards)
-* 3) implementing a much simpler and less cluttered design (Aesthetic and minimalist design). 
+* 3) implementing a much simpler and less cluttered design (Aesthetic and minimalist design)
+
 For Calm, my most important findings were:
 * 1) using more labels and text to identify the purpose of some icons (Recognition rather than recall)
 * 2) providing greater feedback during user error (Help users recognize, diagnose, and recover from errors)
-* 3) placing help features in more prominent places (Help and documentation). 
+* 3) placing help features in more prominent places (Help and documentation)
 
 [Full Evaluation Here](https://github.com/fyee1215/DH150-FontannaYee/blob/main/README.md)
 
