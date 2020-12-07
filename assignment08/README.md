@@ -96,7 +96,7 @@ At this stage of the design process, I decided on a name for my application and 
 
 ## Evaluation and Revision History 
 The most valuable part of the prototyping process was the revision process, where I received feedback from users through an impression test and a cognitive walkthough to identify features that were not intuitive, confusing, or needed redesigning. Although most of the feedback was overwhelmingly positive, especially on the simplicity of design, fonts, and color scheme, these were the findings that informed my revisions:
-  1. Eliminating the menu bar completing because it was unnecessary and created additional confusion
+  1. Eliminating the menu bar because it was unnecessary and created additional confusion
   2. Providing an option for users who did not want to customize their meditation at all
   3. Making the customization icons bigger
   4. Rounding all the corners of components for a more calming effect
