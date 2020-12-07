@@ -3,7 +3,7 @@
 ## Introduction
 When I was given the prompt to create a project that benefitted some aspect of life for middle-aged women, I decided to combine user experience with my interests in psychology and mental health to create a meditation application. Especially during the Covid-19 pandemic, mental health stressors have been at an all-time high, and I thought it was important to give older adults a platform to address mental health concerns. Many current meditation websites and apps are unnecessarily complicated and can be overwhelming for older adults to navigate and turn them away from the benefits of meditation, especially if they are unfamiliar with using technology. My goal in this project was to create a meditation app that replaced complicated interfaces and an overwhelming amount of choices with a simple, user-friendly design and clear options for customization. I hope that eliminating the stress of navigating complicated apps and websites would help older women, and adults in general, feel more comfortable creating a meditation routine that best addresses their daily life stressors, especially exacerbated by the pandemic. 
 
-## Clear design statement
+## Design statement
 Based on weeks of research, usability testing, and contextual interviews, I prioritized simplicity and customization in my design. I primarily focused on assisting primarily middle-aged women in finding a meditation practice that best addresses their physical and mental health concerns. With this in mind, I identified three key features that minimized excess stress in a meditation routine, based on the two users personas that informed my design. 
 
 **Feature 1: Changing the Language**
@@ -105,4 +105,8 @@ The most valuable part of the prototyping process was the revision process, wher
 
 ## Pitch video 
 
-## Conclusion: what did you learn throughout the process?
+## Conclusion
+Throughout the quarter, I learned so much about the user experience research and design process. My biggest takeaway is that design is an iterative process that requires many cycles of feedback and revision, and that human-centered design works best when we conduct testing with participants and the end of each stage of research and design. 
+
+Overall, I think I created an effective introductory design of a meditation app. Although it was my first time conducting user research and working with Figma to create a functioning prototype, I was able to use the skills and knowledge I gained throughout the quarter to create a simple but elegant product. However, I know my work is far from done, and my prototype can continue to go through revisions to become even better. For future reference, I think it would be important to add additional features to the three I already have, and conduct additional usability testing with the prototype I have, especially with more participants in the target population. This way, I can confirm that my product is ideal for the people I most want to help. 
+
