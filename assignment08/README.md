@@ -105,9 +105,7 @@ The most valuable part of the prototyping process was the revision process, wher
 
 ## Pitch video 
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDAmSmNbbGU" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusion
 Throughout the quarter, I learned so much about the user experience research and design process. My biggest takeaway is that design is an iterative process that requires many cycles of feedback and revision, and that human-centered design works best when we conduct testing with participants and the end of each stage of research and design. 
